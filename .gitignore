@@ -4,6 +4,7 @@ udevtrigger
 init
 upgraded/upgraded
 .*
+!.gitlab-ci.yml
 Makefile
 CMakeCache.txt
 CMakeFiles
